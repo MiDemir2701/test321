@@ -17,8 +17,9 @@ public class Main {
     //Neue Methode
     public void zahlenreihe(){
 int a = 3;
-        boolean = false;
-        if(boolean = false){
+        for(int i = 1; i <=3; i++){
+            System.out.println("Die Zahlenreihe:" + i);
+        }
             
     }
 }
