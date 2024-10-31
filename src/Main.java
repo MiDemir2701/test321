@@ -17,5 +17,8 @@ public class Main {
     //Neue Methode
     public void zahlenreihe(){
 int a = 3;
+        boolean = false;
+        if(boolean = false){
+            
     }
 }
